@@ -162,4 +162,14 @@ applies to that combined surface. Choose deliberately.
 
 ## License
 
-Apache-2.0. See [`LICENSE`](LICENSE).
+The code in this repository is licensed under the **GNU Affero General Public
+License v3.0** (`AGPL-3.0-only`). Full text: [LICENSE](LICENSE).
+
+In short: you may use, modify and distribute the code, but if you distribute a
+modified version **or offer it as a service over a network**, you must release
+the source under the same license.
+
+Third-party dependencies and components under `vendor/`-style directories keep
+their own licenses; this license does not cover them.
+
+Copyright (c) 2026 turer73.
